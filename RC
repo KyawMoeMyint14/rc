@@ -105,5 +105,10 @@
         </div>
     </div>
 
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            // Add interactivity here if needed
+        });
+    </script>
 </body>
 </html>
